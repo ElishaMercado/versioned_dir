@@ -5,3 +5,5 @@ repository on GitHub
 
 This is an extra line of text added to the copy 
 of README.md in the cloned repository
+
+And this is an extra line added to the original version (pulled from cloned version) as part of an exercise.
